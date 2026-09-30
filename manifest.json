@@ -1,0 +1,32 @@
+{
+  "name": "Minhas Finanças",
+  "short_name": "Finanças",
+  "description": "Controle financeiro pessoal que funciona offline, com dados salvos apenas neste dispositivo.",
+  "lang": "pt-BR",
+  "start_url": "./Minhas_Financas_v5_pwa.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#17181c",
+  "theme_color": "#17181c",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
