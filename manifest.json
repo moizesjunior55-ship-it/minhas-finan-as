@@ -3,7 +3,7 @@
   "short_name": "Finanças",
   "description": "Controle financeiro pessoal que funciona offline, com dados salvos apenas neste dispositivo.",
   "lang": "pt-BR",
-  "start_url": "./Minhas_Financas_v5_pwa.html",
+  "start_url": "./Minhas_Financas_v5_pwa_mobile5.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
